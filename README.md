@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Github an C++.
+- 🌱 I’m currently learning Github and C++.
 - 🤔 I’m looking for help with learning things and resource.
