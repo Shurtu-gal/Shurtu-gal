@@ -8,7 +8,7 @@
 - ⚡ Awaiting: Jujutsu Kaisen 3
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shurtu-Gal&&show_icons=true&theme=solarized-light" width="49%"         alt="github-stats" />&nbsp;<img src="http://github-readme-streak-stats.herokuapp.com?user=Shurtu-Gal&&theme=solarized-light" width="49%" alt="github-streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shurtu-Gal&&show_icons=true&theme=solarized-light&count_private=true" width="49%"         alt="github-stats" />&nbsp;<img src="http://github-readme-streak-stats.herokuapp.com?user=Shurtu-Gal&&theme=solarized-light" width="49%" alt="github-streak" />
 </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Shurtu-Gal&theme=onedark&&bg_color=eee8d5&&row=2&column=7&&center" width="99%" alt="github-trophy" />&nbsp;
