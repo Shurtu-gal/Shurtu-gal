@@ -7,13 +7,56 @@
 - 😄 Pronouns: He/Him
 - ⚡ Awaiting: Jujutsu Kaisen 3
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shurtu-Gal&&show_icons=true&theme=solarized-light&count_private=true" width="49%"         alt="github-stats" />&nbsp;<img src="http://github-readme-streak-stats.herokuapp.com?user=Shurtu-Gal&&theme=solarized-light" width="49%" alt="github-streak" />
+<p c>
+  <picture width="48% alt="github-stats" >
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=Shurtu-Gal&&show_icons=true&theme=transparent&text_color=619EA7&count_private=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Shurtu-Gal&&show_icons=true&theme=solarized-light&count_private=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=Shurtu-Gal&&show_icons=true&theme=solarized-light&count_private=true" style="width:48%;"alt="github-stats"/>
+  </picture>&nbsp;<picture width="48% alt="github-stats" >
+    <source 
+      srcset="http://github-readme-streak-stats.herokuapp.com?user=Shurtu-Gal&theme=solarized-light&count_private=true&background=ffffff00"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="http://github-readme-streak-stats.herokuapp.com?user=Shurtu-Gal&&theme=solarized-light&count_private=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Shurtu-Gal&&theme=solarized-light" style="width:48%;"alt="github-stats"/>
+  </picture>
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shurtu-Gal&theme=onedark&&bg_color=eee8d5&&row=2&column=7&&center" width="99%" alt="github-trophy" />&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shurtu-gal&layout=compact&bg_color=eee8d5&&color=586e75" width="50%" alt="github-stats-abhibhaw" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shurtu-Gal&theme=onedark&&bg_color=eee8d5&&row=2&column=7&&center" width="99%" alt="github-trophy" />
+</p>
+
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Shurtu-gal&layout=compact&theme=transparent&text_color=619EA7&text_bold=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Shurtu-gal&layout=compact&bg_color=eee8d5&&color=586e75"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shurtu-gal&layout=compact&bg_color=eee8d5&&color=586e75" width="50%" alt="github-stats-Shurtugal" />
+  </picture>
 </p>
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Shurtu-gal&bg_color=eee8d5&color=586e75&area_color=657b83&line=2aa198&point=6c71c4&area=true&hide_border=true" width="95%" alt="github-graph" />
+  <picture>
+    <source 
+      srcset="https://activity-graph.herokuapp.com/graph?username=Shurtu-gal&bg_color=ffffff00&color=fdf6e3&area_color=758bA3&line=2aa198&point=6c71c4&area=true&radius=16"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://activity-graph.herokuapp.com/graph?username=Shurtu-gal&bg_color=eee8d5&color=586e75&area_color=657b83&line=2aa198&point=6c71c4&area=true&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://activity-graph.herokuapp.com/graph?username=Shurtu-gal&bg_color=eee8d5&color=586e75&area_color=657b83&line=2aa198&point=6c71c4&area=true&hide_border=true" width="95%" alt="github-graph" />
+  </picture>
 </p>
