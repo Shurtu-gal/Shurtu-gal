@@ -8,7 +8,7 @@
 - ⚡ Awaiting: Jujutsu Kaisen 3
 
 <p align="center">
-  <picture width="48% alt="github-stats" >
+  <picture>
     <source 
       srcset="https://github-readme-stats.vercel.app/api?username=Shurtu-Gal&&show_icons=true&theme=transparent&text_color=619EA7&count_private=true"
       media="(prefers-color-scheme: dark)"
@@ -17,8 +17,8 @@
       srcset="https://github-readme-stats.vercel.app/api?username=Shurtu-Gal&&show_icons=true&theme=solarized-light&count_private=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=Shurtu-Gal&&show_icons=true&theme=solarized-light&count_private=true" style="width:48%;"alt="github-stats"/>
-  </picture>&nbsp;<picture width="48% alt="github-stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=Shurtu-Gal&&show_icons=true&theme=solarized-light&count_private=true" style="width:40%;"alt="github-stats"/>
+  </picture>&nbsp;<picture>
     <source 
       srcset="http://github-readme-streak-stats.herokuapp.com?user=Shurtu-Gal&theme=solarized-light&count_private=true&background=ffffff00"
       media="(prefers-color-scheme: dark)"
@@ -27,7 +27,7 @@
       srcset="http://github-readme-streak-stats.herokuapp.com?user=Shurtu-Gal&&theme=solarized-light&count_private=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=Shurtu-Gal&&theme=solarized-light" style="width:48%;"alt="github-stats"/>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Shurtu-Gal&&theme=solarized-light" style="width:40%;"alt="github-stats"/>
   </picture>
 </p>
 <p align="center">
