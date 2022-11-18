@@ -7,7 +7,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Awaiting: Jujutsu Kaisen 3
 
-<p c>
+<p align="center">
   <picture width="48% alt="github-stats" >
     <source 
       srcset="https://github-readme-stats.vercel.app/api?username=Shurtu-Gal&&show_icons=true&theme=transparent&text_color=619EA7&count_private=true"
