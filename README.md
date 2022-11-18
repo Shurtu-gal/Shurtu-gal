@@ -8,8 +8,9 @@
 - ⚡ Awaiting: Jujutsu Kaisen 3
 
 <p align="center">
- <span>
-  <picture>
+<span style="
+    display: flex;
+    gap: 10px;">  <picture>
     <source 
       srcset="https://github-readme-stats.vercel.app/api?username=Shurtu-Gal&&show_icons=true&theme=transparent&text_color=619EA7&count_private=true"
       media="(prefers-color-scheme: dark)"
