@@ -12,14 +12,14 @@
     display: flex;
     gap: 10px;">  <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=Shurtu-Gal&&show_icons=true&theme=transparent&text_color=619EA7&count_private=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=Shurtu-Gal&show_icons=true&theme=transparent&text_color=619EA7&count_private=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Shurtu-Gal&&show_icons=true&theme=solarized-light&count_private=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=Shurtu-Gal&show_icons=true&theme=solarized-light&count_private=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=Shurtu-Gal&&show_icons=true&theme=solarized-light&count_private=true" width=48%alt="github-stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Shurtu-Gal&show_icons=true&theme=solarized-light&count_private=true" width=48%alt="github-stats"/>
   </picture><picture>
     <source 
       srcset="http://github-readme-streak-stats.herokuapp.com?user=Shurtu-Gal&theme=solarized-light&count_private=true&background=ffffff00"
