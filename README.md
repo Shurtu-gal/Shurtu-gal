@@ -12,14 +12,14 @@
     display: flex;
     gap: 10px;">  <picture>
     <source 
-      srcset="https://github-readme-stats-c1sgahkrq-shurtu-gal.vercel.app/api?username=Shurtu-Gal&show_icons=true&theme=transparent&text_color=619EA7&count_private=true"
+      srcset="https://github-readme-stats-1g2abdmjb-shurtu-gal.vercel.app/api?username=Shurtu-Gal&show_icons=true&theme=transparent&text_color=619EA7&count_private=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats-c1sgahkrq-shurtu-gal.vercel.app/api?username=Shurtu-Gal&show_icons=true&theme=solarized-light&count_private=true"
+      srcset="https://github-readme-stats-1g2abdmjb-shurtu-gal.vercel.app/api?username=Shurtu-Gal&show_icons=true&theme=solarized-light&count_private=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats-c1sgahkrq-shurtu-gal.vercel.app/api?username=Shurtu-Gal&show_icons=true&theme=solarized-light&count_private=true" width=48%alt="github-stats"/>
+    <img src="https://github-readme-stats-1g2abdmjb-shurtu-gal.vercel.app/api?username=Shurtu-Gal&show_icons=true&theme=solarized-light&count_private=true" width=48%alt="github-stats"/>
   </picture><picture>
     <source 
       srcset="http://github-readme-streak-stats.herokuapp.com?user=Shurtu-Gal&theme=solarized-light&count_private=true&background=ffffff00"
@@ -50,14 +50,14 @@
 <p align="center">
   <picture>
     <source 
-      srcset="https://github-readme-stats-c1sgahkrq-shurtu-gal.vercel.app/api/top-langs/?username=Shurtu-gal&layout=compact&theme=transparent&text_color=619EA7&text_bold=true"
+      srcset="https://github-readme-stats-1g2abdmjb-shurtu-gal.vercel.app/api/top-langs/?username=Shurtu-gal&layout=compact&theme=transparent&text_color=619EA7&text_bold=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats-c1sgahkrq-shurtu-gal.vercel.app/api/top-langs/?username=Shurtu-gal&layout=compact&bg_color=eee8d5&&color=586e75"
+      srcset="https://github-readme-stats-1g2abdmjb-shurtu-gal.vercel.app/api/top-langs/?username=Shurtu-gal&layout=compact&bg_color=eee8d5&&color=586e75"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats-c1sgahkrq-shurtu-gal.vercel.app/api/top-langs/?username=Shurtu-gal&layout=compact&bg_color=eee8d5&&color=586e75" width="50%" alt="github-stats-Shurtugal" />
+    <img src="https://github-readme-stats-1g2abdmjb-shurtu-gal.vercel.app/api/top-langs/?username=Shurtu-gal&layout=compact&bg_color=eee8d5&&color=586e75" width="50%" alt="github-stats-Shurtugal" />
   </picture>
 </p>
 
