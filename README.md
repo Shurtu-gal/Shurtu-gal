@@ -36,14 +36,14 @@
 <p align="center">
   <picture>
     <source 
-      srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Shurtu-gal&bg_color=ffffff00&color=fdf6e3&area_color=758bA3&line=2aa198&point=6c71c4&area=true&radius=16"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Shurtu-gal&bg_color=ffffff00&color=fdf6e3&area_color=758bA3&line=2aa198&point=6c71c4&area=true&radius=16"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Shurtu-gal&bg_color=eee8d5&color=586e75&area_color=657b83&line=2aa198&point=6c71c4&area=true&hide_border=true"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Shurtu-gal&bg_color=eee8d5&color=586e75&area_color=657b83&line=2aa198&point=6c71c4&area=true&hide_border=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Shurtu-gal&bg_color=eee8d5&color=586e75&area_color=657b83&line=2aa198&point=6c71c4&area=true&hide_border=true" width="95%" alt="github-graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shurtu-gal&bg_color=eee8d5&color=586e75&area_color=657b83&line=2aa198&point=6c71c4&area=true&hide_border=true" width="95%" alt="github-graph" />
   </picture>
 </p>
 
