@@ -22,14 +22,14 @@
     <img src="https://github-readme-stats-psi-rust.vercel.app/api?username=Shurtu-Gal&show_icons=true&theme=solarized-light&count_private=true" width=48%alt="github-stats"/>
   </picture><picture>
     <source 
-      srcset="http://github-readme-streak-stats.herokuapp.com?user=Shurtu-Gal&theme=solarized-light&count_private=true&background=ffffff00"
+      srcset="https://streak-stats.demolab.com?user=Shurtu-Gal&theme=solarized-light&count_private=true&background=ffffff00"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="http://github-readme-streak-stats.herokuapp.com?user=Shurtu-Gal&&theme=solarized-light&count_private=true"
+      srcset="https://streak-stats.demolab.com?user=Shurtu-Gal&&theme=solarized-light&count_private=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=Shurtu-Gal&&theme=solarized-light" width=48% alt="github-stats"/>
+    <img src="https://streak-stats.demolab.com?user=Shurtu-Gal&&theme=solarized-light" width=48% alt="github-stats"/>
   </picture>
   </span>
 </p>
