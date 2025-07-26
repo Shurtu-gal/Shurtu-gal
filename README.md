@@ -35,7 +35,7 @@
 
 ```yaml
 Languages:    Go, JavaScript, TypeScript, Python, Java, C++, Bash
-Frameworks:   Node.js, NestJS, React, Spring Boot, Flutter
+Frameworks:   Echo(Go), Node.js, Express, Next.js, React, Spring, Redux, Apollo GraphQL, Git, NestJS
 DevOps/Infra: Docker, Kubernetes, GitHub Actions, Firebase, AWS, GCP
 Databases:    PostgreSQL, MySQL, MongoDB, SQLite
 Research:     Quantum Circuits, Pennylane, TensorFlow, Qiskit
