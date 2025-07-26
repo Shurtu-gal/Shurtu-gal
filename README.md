@@ -84,20 +84,15 @@ Research:     Quantum Circuits, Pennylane, TensorFlow, Qiskit
 <p align="center">
   <picture>
     <source 
-      srcset="https://github-readme-stats-psi-rust.vercel.app/api/top-langs/?username=Shurtu-gal&layout=compact&theme=transparent&text_color=619EA7&text_bold=true"
+      srcset="https://github-readme-stats-psi-rust.vercel.app/api/top-langs/?username=Shurtu-gal&layout=compact&theme=transparent&text_color=619EA6&text_bold=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats-psi-rust.vercel.app/api/top-langs/?username=Shurtu-gal&layout=compact&bg_color=eee8d5&&color=586e75"
+      srcset="https://github-readme-stats-psi-rust.vercel.app/api/top-langs/?username=Shurtu-gal&layout=compact&bg_color=eee8d5&&color=586e76"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats-psi-rust.vercel.app/api/top-langs/?username=Shurtu-gal&layout=compact&bg_color=eee8d5&&color=586e75" width="50%" alt="github-stats-Shurtugal" />
+    <img src="https://github-readme-stats-psi-rust.vercel.app/api/top-langs/?username=Shurtu-gal&layout=compact&bg_color=eee8d5&&color=586e76" width="50%" alt="github-stats-Shurtugal" />
   </picture>
-</p>
-
-<p align="center"> 
-  Visitors count:<br>
-  <img src="https://profile-counter.glitch.me/Shurtu-gal/count.svg" />
 </p>
 
 <p align="center">
