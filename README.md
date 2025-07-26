@@ -1,11 +1,45 @@
-### Konichiwa 👋
+<h1 align="center">Konichiwa, I'm Ashish Padhy 👋</h1>
 
-- 🔭 I’m currently working on my developer experience (and sense of humor as well :upside_down_face:)
-- 🌱 I’m currently learning Next.js and Three.js
-- 👯 I’m looking to collaborate on Web Development Projects
-- 📫 How to reach me: &nbsp; &nbsp; &nbsp; [Linkedin](https://www.linkedin.com/in/ashish-padhy3023/) &nbsp; &nbsp; &nbsp; &nbsp;[Twitter](https://twitter.com/Shurtu_Gal) &nbsp; &nbsp; &nbsp; [Instagram](https://www.instagram.com/ashish_padhy196/)
-- 😄 Pronouns: He/Him
-- ⚡ Awaiting: Jujutsu Kaisen 3
+<p align="center">
+  <strong>Backend & Infra Developer</strong> • OSS Maintainer @ <a href="https://www.asyncapi.com">AsyncAPI</a> • Ex-Intern @ <a href="https://www.oracle.com">Oracle</a>, <a href="https://apideck.com">Apideck</a>, <a href="https://amplication.com">Amplication</a><br/>
+  <em>CS Grad from NIT Rourkela • Physics Fan • Systems & Dev Tooling Enthusiast</em>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🛠 I love working on scalable backend systems, distributed infrastructure, and developer platforms.
+- 🔧 Former SDE Intern at **Oracle** – worked on routing infrastructure, CI/CD pipelines, and web tooling for network observability.
+- 💡 Built 15+ production-grade API connectors and a virtual webhook system at **Apideck**, improving dev experience and platform coverage.
+- 🌱 Active **Maintainer and TSC Member** at **AsyncAPI** – shipped automation for Slack, PR workflows, CLI improvements, and more.
+- 🧪 Research enthusiast in **Quantum ML** – contributed to hybrid embedding models and function approximation techniques.
+- 🧲 Equally obsessed with **physics** – from quantum circuits to black hole thermodynamics.
+- 😄 Currently debugging life, one `console.log()` at a time.
+- ⚡ Awaiting: `Jujutsu Kaisen Season 3` (Justice for Gojo 😤)
+
+---
+
+### 🔗 Let's Connect
+
+- 📫 Email: [ashishpadhy1729@gmail.com](mailto:ashishpadhy1729@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ashish-padhy3023/)
+- 🐦 [Twitter](https://twitter.com/Shurtu_Gal)
+- 📷 [Instagram](https://www.instagram.com/ashish_padhy196/)
+- 🌐 [Portfolio](https://ashishpadhy.live/)
+- 💻 [GitHub](https://github.com/Shurtu-gal)
+
+---
+
+### 🧰 Tech Stack
+
+```yaml
+Languages:    Go, JavaScript, TypeScript, Python, Java, C++, Bash
+Frameworks:   Node.js, NestJS, React, Spring Boot, Flutter
+DevOps/Infra: Docker, Kubernetes, GitHub Actions, Firebase, AWS, GCP
+Databases:    PostgreSQL, MySQL, MongoDB, SQLite
+Research:     Quantum Circuits, Pennylane, TensorFlow, Qiskit
+```
 
 <p align="center">
 <span style="
