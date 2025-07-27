@@ -44,7 +44,23 @@ Research:     Quantum Circuits, Pennylane, TensorFlow, Qiskit
 <p align="center">
 <span style="
     display: flex;
-    gap: 10px;">  <picture>
+    gap: 10px;"> <a href="https://gitroll.io/profile/ugtkSPXiafQd3TjDbxXSEsz9qyy92" target="_blank"><picture>
+    <source 
+      srcset="https://gitroll.io/api/badges/profiles/v1/ugtkSPXiafQd3TjDbxXSEsz9qyy92?theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://gitroll.io/api/badges/profiles/v1/ugtkSPXiafQd3TjDbxXSEsz9qyy92?theme=solarized-light"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://gitroll.io/api/badges/profiles/v1/ugtkSPXiafQd3TjDbxXSEsz9qyy92?theme=dark" width=48% alt="GitRoll Profile Badge"/>
+  </picture> </a> </span>
+</p>
+
+<p align="center">
+  <span style="
+      display: flex;
+      gap: 10px;"> <picture>
     <source 
       srcset="https://github-readme-stats-psi-rust.vercel.app/api?username=Shurtu-Gal&show_icons=true&theme=transparent&text_color=619EA7&count_private=true&include_all_commits=true"
       media="(prefers-color-scheme: dark)"
@@ -54,7 +70,7 @@ Research:     Quantum Circuits, Pennylane, TensorFlow, Qiskit
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats-psi-rust.vercel.app/api?username=Shurtu-Gal&show_icons=true&theme=solarized-light&count_private=true&include_all_commits=true" width=48%alt="github-stats"/>
-  </picture><picture>
+  </picture> <picture>
     <source 
       srcset="https://streak-stats.demolab.com?user=Shurtu-Gal&theme=solarized-light&count_private=true&background=ffffff00"
       media="(prefers-color-scheme: dark)"
@@ -67,6 +83,7 @@ Research:     Quantum Circuits, Pennylane, TensorFlow, Qiskit
   </picture>
   </span>
 </p>
+
 <p align="center">
   <picture>
     <source 
@@ -81,8 +98,7 @@ Research:     Quantum Circuits, Pennylane, TensorFlow, Qiskit
   </picture>
 </p>
 
-<p align="center">
-  <picture>
+<!-- <picture>
     <source 
       srcset="https://github-readme-stats-psi-rust.vercel.app/api/top-langs/?username=Shurtu-gal&layout=compact&theme=transparent&text_color=619EA6&text_bold=true"
       media="(prefers-color-scheme: dark)"
@@ -91,9 +107,8 @@ Research:     Quantum Circuits, Pennylane, TensorFlow, Qiskit
       srcset="https://github-readme-stats-psi-rust.vercel.app/api/top-langs/?username=Shurtu-gal&layout=compact&bg_color=eee8d5&&color=586e76"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats-psi-rust.vercel.app/api/top-langs/?username=Shurtu-gal&layout=compact&bg_color=eee8d5&&color=586e76" width="50%" alt="github-stats-Shurtugal" />
-  </picture>
-</p>
+    <img src="https://github-readme-stats-psi-rust.vercel.app/api/top-langs/?username=Shurtu-gal&layout=compact&bg_color=eee8d5&&color=586e76" width="48%" alt="github-stats-Shurtugal" />
+</picture> -->
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Shurtu-Gal&theme=onedark&&bg_color=eee8d5&&row=2&column=7&&center" width="99%" alt="github-trophy" />
